@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Dlouxgit/alias-manager/compare/v1.0.1...v1.0.2) (2023-06-09)
+
+
+### Bug Fixes
+
+* fix success msg ([5aec447](https://github.com/Dlouxgit/alias-manager/commit/5aec447c75ccce1fc5512f65fda51d7d06efef1c))
+
 ## [1.0.1](https://github.com/Dlouxgit/alias-manager/compare/v1.0.0...v1.0.1) (2023-06-09)
 
 
