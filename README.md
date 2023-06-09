@@ -1,7 +1,5 @@
 # alias-manager
 
-am -- alias manager
-
 manage your zsh alias.
 
 [![NPM version][npm-image]][npm-url]
@@ -12,7 +10,7 @@ now support: `zsh`.
 ## Install
 
 ```
-$ npm install -g am
+$ npm install -g alias manager
 ```
 
 ## Example
