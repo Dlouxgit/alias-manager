@@ -10,7 +10,7 @@ now support: `zsh`.
 ## Install
 
 ```
-$ npm install -g alias manager
+$ npm install -g alias-manager
 ```
 
 ## Example
@@ -20,9 +20,7 @@ $ npm install -g alias manager
 ```bash
 $ am add halo 'code /Users' open
 
-Successfully inserted line '
-alias halo="code /Users" # open
-' into file .zshrc.
+Successfully inserted line 'alias halo="code /Users" # open' into file .zshrc.
 
 # can find in .zhsrc
 # alias halo="code /Users" # open
