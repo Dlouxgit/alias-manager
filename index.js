@@ -11,7 +11,7 @@ function resolvePrompts (select) {
         name: 'alias',
         when: () => select.length,
         type: 'list',
-        message: 'What do you want?',
+        message: 'Which alias you want to execute?',
         choices: geneChoices(select)
     }
 }
